@@ -1,0 +1,1 @@
+<img data-layer="istockphoto-1483863447-2048x2048 2" class="Istockphoto14838634472048x20482 w-[1440px] h-[1024px]" src="https://placehold.co/1440x1024" />

@@ -1,0 +1,1 @@
+<div data-layer="Rectangle 1" class="Rectangle1 w-[1238px] h-[795.50px] opacity-95 bg-orange-100 rounded-[10px] shadow-[5px_4px_14px_0px_rgba(0,0,0,0.04)] shadow-[20px_16px_26px_0px_rgba(0,0,0,0.03)] shadow-[45px_36px_34px_0px_rgba(0,0,0,0.02)] shadow-[80px_64px_41px_0px_rgba(0,0,0,0.01)] shadow-[124px_100px_45px_0px_rgba(0,0,0,0.00)]"></div>
